@@ -19,3 +19,10 @@ Use Python 3 and run the following in your terminal:
 
 ```bash
 python3 triage.py
+## Limitations
+
+- `red_flag` is a single boolean;
+- `age` is parsed but not yet used in any rule.
+- `plain_film` and `neurological_exam` are inferred from free text, so any
+  unexpected value is treated as documented.
+- Criteria are hard-coded rather than loaded from source policy documents.
