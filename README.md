@@ -1,4 +1,4 @@
-# Lumbar Spine Prior Authorization Triage (`lumbar-pa-triage`)
+# Lumbar Spine Imaging Triage (`lumbar-pa-triage`)
 
 ## What?
 Simplifies prior authorization requests for lumbar spine MRI imaging and evaluates them against clinical practice guidelines and local coverage determinations (LCDs). Considers patient age, regional jurisdiction, provider-directed conservative management duration, surgical history, physical exam findings, and red flag indicators to automatically generate standardized, single-line case summaries in `summaries.txt` useful for automatic insurance approval or defaulting to clinical adjudication.  
