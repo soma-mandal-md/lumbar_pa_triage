@@ -6,3 +6,5 @@ CASEA20260005: 48yo (WA), 4 wks PT documented. [Red flag: False, LCD: True, Prio
 CASEA20260006: 48yo (AK), 4 wks PT documented. [Red flag: False, LCD: False, Prior Surg: False] -> approve - LCD exception
 CASEA20260007: 70yo (ME), 6 wks PT documented. [Red flag: False, LCD: False, Prior Surg: True] -> approve - plain film, neuro exam, and duration met
 CASEA20260008: 73yo (RI), 6 wks PT documented. [Red flag: False, LCD: False, Prior Surg: True] -> route to MD - insufficient documentation
+CASEA20260009: 55yo (TX), 1 wks PT documented. [Red flag: False, LCD: True, Prior Surg: False] -> route to MD - insufficient documentation
+CASEA20260010: 42yo (WA), 3 wks PT documented. [Red flag: False, LCD: False, Prior Surg: False] -> route to MD - insufficient documentation

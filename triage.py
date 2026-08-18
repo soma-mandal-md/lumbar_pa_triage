@@ -5,8 +5,8 @@ def check_case(case):
     # Safety rule: Check for red flags first
     if case["red_flag"]:
         return "approve - red flag"
-    # 2. LCD exception
-    elif case["LCD"] or (case["jurisdiction"] in ["AK", "AR", "CA", "HI", "ID", "MT", "NV", "ND", "OR", "SD", "UT", "WA", "WY"] and case["weeks_provider_conservative"] >= 4):
+    # 2. LCD exception - jurisdictional relaxation of duration, not a bypass
+    elif (case["LCD"] or case["jurisdiction"] in ["AK", "AR", "CA", "HI", "ID", "MT", "NV", "ND", "OR", "SD", "UT", "WA", "WY"]) and case["weeks_provider_conservative"] >= 4:
         return "approve - LCD exception"    
     # 3. Standard with surgery
     elif case["prior_lumbar_surgery"] and case["plain_film"] and case["neurological_exam"] and case["weeks_provider_conservative"] >= 6:

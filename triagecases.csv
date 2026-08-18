@@ -7,3 +7,5 @@ CASEA20260005, 48, 4, False, False, decreased range of motion with no neurologic
 CASEA20260006, 48, 4, False, False, decreased range of motion with no neurological deficits, Medicare Part B, Humana, AK, False, False
 CASEA20260007, 70, 6, True, Osteophtyes and otherwise unremarkable, decreased range of motion with no neurological deficits, Medicare Part B, Horizon, ME, False, False
 CASEA20260008, 73, 6, True, False, decreased range of motion with no neurological deficits, Medicare Part B, Priority Health, RI, False, False
+CASEA20260009, 55, 1, False, False, False, Medicare Part B, Cigna, TX, True, False
+CASEA20260010, 42, 3, False, False, decreased range of motion with no neurological deficits, Medicare Part B, Humana, WA, False, False
