@@ -1,0 +1,9 @@
+case_id,age,weeks_provider_conservative,prior_lumbar_surgery,plain_film,neurological_exam,business_line,health_plan,jurisdiction,LCD,red_flag
+CASEA20260001, 45, 6, False, False, positive straight leg raise, Medicare Part B, Cigna, TX, False, False
+CASEA20260002, 50, 6, False, False, False, Medicare Part B, UnitedHealthcare, IL, False, False
+CASEA20260003, 60, 5, False, False, decreased range of motion with no neurological deficits, Medicare Part B, Blue Cross Blue Shield, CT, False, False
+CASEA20260004, 35, 2, False, L4-L5 disc herniation, positive straight leg raise, Medicare Part B, Cigna, TX, False, True
+CASEA20260005, 48, 4, False, False, decreased range of motion with no neurological deficits, Medicare Part B, Humana, WA, True, False
+CASEA20260006, 48, 4, False, False, decreased range of motion with no neurological deficits, Medicare Part B, Humana, AK, False, False
+CASEA20260007, 70, 6, True, Osteophtyes and otherwise unremarkable, decreased range of motion with no neurological deficits, Medicare Part B, Horizon, ME, False, False
+CASEA20260008, 73, 6, True, False, decreased range of motion with no neurological deficits, Medicare Part B, Priority Health, RI, False, False
